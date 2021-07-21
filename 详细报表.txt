@@ -1,0 +1,343 @@
+--------[ 鲁大师 ]--------------------------------------------------------------------------------
+
+  软件:             鲁大师 5.1021.1300.108
+  时间:             2021-07-21 20:08:01
+  网站:             http://www.ludashi.com
+
+--------[ 概览 ]----------------------------------------------------------------------------------
+
+  电脑型号            戴尔 Vostro 7580 笔记本电脑
+  操作系统            Windows 10 64位 ( DirectX 12 )
+
+  处理器              英特尔 Core i5-8300H @ 2.30GHz 四核
+  主板                戴尔 07HXGJ ( HM370 芯片组 )
+  主显卡              Nvidia GeForce GTX 1050 ( 4 GB / 戴尔 )
+  内存                4 GB ( 海力士 DDR4 2666MHz )
+  主硬盘               HS-SSD-E2000L 512G ( 512 GB / 固态硬盘 )
+  显示器              友达 AUO63ED ( 15.5 英寸  )
+  声卡                瑞昱  @ 英特尔 High Definition Audio 控制器
+  网卡                英特尔 Wireless-AC 9560
+
+--------[ 主板 ]----------------------------------------------------------------------------------
+
+  主板型号            戴尔 07HXGJ
+  芯片组              HM370 芯片组
+  序列号              /336LXR2/CNCMC0089L01F0/
+  主板版本            A00
+  BIOS版本            戴尔 Inc. 1.3.0  /  BIOS程序发布日期: 05/24/2018
+  BIOS的大小          16384 KB
+
+  板载设备            "Intel HD Graphics" / 视频设备 (启用)
+
+--------[ 处理器 ]--------------------------------------------------------------------------------
+
+  处理器              英特尔 Core i5-8300H @ 2.30GHz 四核
+  速度                2.30 GHz (100 MHz x 23.0)
+  处理器数量          核心数: 4 / 线程数: 8
+  插槽/插座           U3E1
+  一级数据缓存        4 x 32 KB, 8-Way, 64 byte lines
+  一级代码缓存        4 x 32 KB, 8-Way, 64 byte lines
+  二级缓存            4 x 256 KB, 4-Way, 64 byte lines
+  三级缓存            8 MB, 16-Way, 64 byte lines
+  特征                MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, HTT, EM64T, EIST, Turbo Boost
+
+--------[ 硬盘 ]----------------------------------------------------------------------------------
+
+  产品                希捷 ST1000LM035-1RK172
+  大小                1 TB
+  转速                5400 转/分
+  缓存                128 MB
+  硬盘已使用          共 2672 次，累计 3209 小时
+  固件                SDM3
+  接口                SATA III
+  数据传输率          600.00 MB/秒
+  特征                S.M.A.R.T,  APM,  48-bit LBA,  NCQ
+
+  产品                HS-SSD-E2000L 512G (固态硬盘)
+  大小                512 GB
+  硬盘已使用          共 226 次，累计 196 小时
+  固件                T1109B0L
+  接口                NVM Express
+  特征                S.M.A.R.T
+
+--------[ 内存 ]----------------------------------------------------------------------------------
+
+  DIMM B              海力士 DDR4 2666MHz 4GB
+  制造日期            2018 年 27 周
+  型号                AD HMA851S6CJR6N-VK
+  序列号              2CB94185
+  厂商                Hynix
+  模块位宽:           64 Bits
+  模块电压:           SSTL 1.2V
+
+--------[ 显卡 ]----------------------------------------------------------------------------------
+
+  显卡                英特尔 UHD Graphics 630
+  显存                128 MB
+  制造商              戴尔
+  制造商              Intel
+  驱动版本            27.20.100.8935
+  驱动日期            20201028
+
+  主显卡              Nvidia GeForce GTX 1050
+  显存                4 GB
+  制造商              戴尔
+  制造商              Nvidia
+  驱动版本            27.21.14.5771
+  驱动日期            20201229
+
+--------[ 显示器 ]--------------------------------------------------------------------------------
+
+  产品                友达 AUO63ED
+  厂商                友达
+  固件程序日期        2017 年 (非显示器制造日期)
+  屏幕尺寸            15.5 英寸 (344 毫米 x 193 毫米)
+  显示比例            宽屏 16 : 9
+  分辨率              1920 x 1080 (缩放比例:125%) 32 位真彩色
+  Gamma               2.20
+  最大分辨率          1920 x 1080
+
+--------[ 其他设备 ]------------------------------------------------------------------------------
+
+
+  无线网卡            英特尔 Wireless-AC 9560
+
+  网卡                鈺硕 Killer e2400 Gigabit Ethernet Controller
+  制造商              戴尔
+
+  声卡                瑞昱  @ 英特尔 High Definition Audio 控制器
+
+  声卡                Nvidia High Definition Audio 控制器
+
+  键盘                HID 标准键盘
+  键盘                HID 标准键盘
+  键盘                PS/2 标准键盘
+  鼠标                HID-compliant 鼠标
+  鼠标                HID-compliant 鼠标
+  鼠标                PS/2 兼容鼠标
+
+  摄像头              Integrated Webcam
+
+--------[ PCI设备 ]-------------------------------------------------------------------------------
+
+  设备                Host Bridge/DRAM Registers - 3E10
+  设备ID              3E10
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to HOST
+  子系统制造商        Dell
+  子系统ID            08261028
+
+  设备                Xeon E3 - 1200/1500 v5/6th Gen Intel Core PCIe Controller  - 1901
+  设备ID              1901
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                UHD Graphics 630
+  设备ID              3E9B
+  制造商              Intel
+  制造商ID            8086
+  类别                Display / VGA
+  子系统制造商        Dell
+  子系统ID            08261028
+
+  设备                Dynamic Platform and Thermal Framework Processor Participant
+  设备ID              1903
+  制造商              Intel
+  制造商ID            8086
+  类别                Data Aquisition & Signal Processing / Other
+  子系统制造商        Dell
+  子系统ID            08261028
+
+  设备                Xeon E3 - 1200/1500 v5/6th Gen Intel Core Gaussian Mixture Model - 1911
+  设备ID              1911
+  制造商              Intel
+  制造商ID            8086
+  类别                System / Other
+  子系统制造商        Dell
+  子系统ID            08261028
+
+  设备                Thermal Subsystem - A379
+  设备ID              A379
+  制造商              Intel
+  制造商ID            8086
+  类别                Data Aquisition & Signal Processing / Other
+  子系统制造商        Dell
+  子系统ID            08261028
+
+  设备                符合 USB xHCI 的主机控制器
+  设备ID              A36D
+  制造商              Intel
+  制造商ID            8086
+  类别                Serial / USB (UHCI)
+  子系统制造商        Dell
+  子系统ID            08261028
+
+  设备                PCI 标准 RAM 控制器
+  设备ID              A36F
+  制造商              Intel
+  制造商ID            8086
+  类别                Memory / RAM
+  子系统制造商        Dell
+  子系统ID            08261028
+
+  设备                Wireless-AC 9560
+  设备ID              A370
+  制造商              Intel
+  制造商ID            8086
+  类别                Network / Other
+  子系统制造商        Intel
+  子系统ID            42A48086
+
+  设备                Serial IO I2C Host Controller - A368
+  设备ID              A368
+  制造商              Intel
+  制造商ID            8086
+  类别                Serial / Other
+  子系统制造商        Dell
+  子系统ID            08261028
+
+  设备                Serial IO I2C Host Controller - A369
+  设备ID              A369
+  制造商              Intel
+  制造商ID            8086
+  类别                Serial / Other
+  子系统制造商        Dell
+  子系统ID            08261028
+
+  设备                Management Engine Interface
+  设备ID              A360
+  制造商              Intel
+  制造商ID            8086
+  类别                Simple Communication / Other
+  子系统制造商        Dell
+  子系统ID            08261028
+
+  设备                300 Series Chipset Family SATA AHCI Controller
+  设备ID              A353
+  制造商              Intel
+  制造商ID            8086
+  类别                Storage / Serial ATA (AHCI 1.0)
+  子系统制造商        Dell
+  子系统ID            08261028
+
+  设备                PCI Express Root Port #21 - A32C
+  设备ID              A32C
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                PCI Express Root Port #9 - A330
+  设备ID              A330
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                PCI Express Root Port #14 - A335
+  设备ID              A335
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                HM370 Chipset LPC Controller
+  设备ID              A30D
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to ISA
+  子系统制造商        Dell
+  子系统ID            08261028
+
+  设备                High Definition Audio 控制器
+  设备ID              A348
+  制造商              Intel
+  制造商ID            8086
+  类别                Multimedia / Hi-definition Audio
+  子系统制造商        Dell
+  子系统ID            08261028
+
+  设备                SMBus - A323
+  设备ID              A323
+  制造商              Intel
+  制造商ID            8086
+  类别                Serial / SMBus Controller
+  子系统制造商        Dell
+  子系统ID            08261028
+
+  设备                SPI  Controller - A324
+  设备ID              A324
+  制造商              Intel
+  制造商ID            8086
+  类别                Serial / Other
+  子系统制造商        Dell
+  子系统ID            08261028
+
+  设备                GeForce GTX 1050
+  设备ID              1C8D
+  制造商              Nvidia
+  制造商ID            10DE
+  类别                Display / 3D
+  子系统制造商        Dell
+  子系统ID            08261028
+
+  设备                High Definition Audio 控制器
+  设备ID              0FB9
+  制造商              Nvidia
+  制造商ID            10DE
+  类别                Multimedia / Hi-definition Audio
+  子系统ID            00000000
+
+  设备                标准 NVM Express 控制器
+  设备ID              2263
+  制造商              Silicon Motion
+  制造商ID            126F
+  类别                Storage / 
+  子系统制造商        Silicon Motion
+  子系统ID            2263126F
+
+  设备                Killer e2400 Gigabit Ethernet Controller
+  设备ID              E0A1
+  制造商              Attansic
+  制造商ID            1969
+  类别                Network / Ethernet
+  子系统制造商        Dell
+  子系统ID            08261028
+
+--------[ USB设备 ]-------------------------------------------------------------------------------
+
+  制造商ID            27C6
+  产品ID              5381
+  类别                239 / 2 / 1
+  设备                 
+  版本                USB 2.0
+
+  制造商ID            0C45
+  产品ID              6A08
+  类别                239 / 2 / 1
+  设备                 
+  版本                USB 2.0
+
+  制造商ID            18F8
+  产品ID              1286
+  类别                0 / 0 / 0
+  设备                ? USB GAMING MOUSE
+  Serial              ?
+  版本                USB 1.1
+
+  制造商ID            8087
+  产品ID              0AAA
+  类别                224 / 1 / 1
+  设备                 
+  版本                USB 2.0
+
+--------[ 传感器 ]--------------------------------------------------------------------------------
+
+  CPU温度             42℃
+  CPU核心             41℃
+  CPU封装             41℃
+  硬盘温度            47℃
+
